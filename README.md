@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hi Humans!
+I like Design and Web
